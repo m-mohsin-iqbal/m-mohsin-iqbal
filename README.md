@@ -4,6 +4,13 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating imp
 
 ---
 
+## 📊 Contributions & Streaks
+
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-mohsin-iqbal&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-mohsin-iqbal&theme=dracula)
+
+---
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **web applications and exploring AI integration in projects**.
@@ -23,14 +30,6 @@ Here are some of the tools and technologies I enjoy working with:
 - **Databases**: MongoDB, PostgreSQL
 - **DevOps**: Docker, GitHub Actions, AWS
 - **Other**: Figma, Postman, VS Code
-
----
-
-## 📊 GitHub Stats
-
-![Mohsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-mohsin-iqbal&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-mohsin-iqbal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
