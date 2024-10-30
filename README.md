@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating imp
 - 🌱 I’m learning **TypeScript and the latest trends in web development**.
 - 👯 I’m looking to collaborate on **open-source projects or innovative startups**.
 - 💬 Ask me about **JavaScript, React, and full-stack development**.
-- 📫 How to reach me: **[mohsin@example.com](mailto:mohsin@example.com)**
+- 📫 How to reach me: **[mohsiniqbaldev@gmail.com](mailto:mohsiniqbaldev@gmail.com)**
 
 ---
 
@@ -45,7 +45,7 @@ Here are a few projects I'm proud of:
 
 ## 🌍 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/mohsin-iqbal)
+- [LinkedIn](https://www.linkedin.com/in/m-mohsin-iqbal)
 - [Twitter](https://twitter.com/mohsin_iqbal)
 - [Personal Website](https://mohsin-iqbal.dev)
 
