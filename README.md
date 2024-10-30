@@ -1,6 +1,6 @@
 # Hi there, I'm Mohsin Iqbal! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer focused on creating impactful solutions through code. With a background in [Your Background, e.g., computer science or software engineering], I thrive on tackling challenging problems and continually learning new technologies.
+Welcome to my GitHub profile! I'm a passionate developer focused on creating impactful solutions through code. With a background in computer science , I thrive on tackling challenging problems and continually learning new technologies.
 
 ---
 
