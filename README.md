@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating imp
 Here are some of the tools and technologies I enjoy working with:
 
 - **Languages**: JavaScript, Python, C#
-- **Frameworks**: React, Node.js, Express
+- **Frameworks**: React,Next.js,Nest Js,Node.js, Express
 - **Databases**: MongoDB, PostgreSQL
 - **DevOps**: Docker, GitHub Actions, AWS
 - **Other**: Figma, Postman, VS Code
@@ -37,7 +37,7 @@ Here are some of the tools and technologies I enjoy working with:
 
 Here are a few projects I'm proud of:
 
-- [**Project Management App**](https://github.com/m-mohsin-iqbal/project-management-app): A full-stack application for managing projects, built with React and Node.js.
+- [**Tutors Pro**](https://tutors-pro-fe-f914c532a332.herokuapp.com/):  A full-stack e-learning platform connecting students with tutors, developed with React, Next.js, Strapi CMS, Node.js, and PostgreSQL. Deployed on Heroku with CI/CD integration from GitHub.
 - [**Personal Portfolio**](https://github.com/m-mohsin-iqbal/portfolio): My personal portfolio showcasing my work and skills, designed with a modern UI.
 - [**AI Chatbot**](https://github.com/m-mohsin-iqbal/ai-chatbot): A chatbot built using Python and machine learning that answers user queries intelligently.
 
