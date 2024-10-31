@@ -38,16 +38,15 @@ Here are some of the tools and technologies I enjoy working with:
 Here are a few projects I'm proud of:
 
 - [**Tutors Pro**](https://tutors-pro-fe-f914c532a332.herokuapp.com/):  A full-stack e-learning platform connecting students with tutors, developed with React, Next.js, Strapi CMS, Node.js, and PostgreSQL. Deployed on Heroku with CI/CD integration from GitHub.
-- [**Personal Portfolio**](https://github.com/m-mohsin-iqbal/portfolio): My personal portfolio showcasing my work and skills, designed with a modern UI.
-- [**AI Chatbot**](https://github.com/m-mohsin-iqbal/ai-chatbot): A chatbot built using Python and machine learning that answers user queries intelligently.
+- [**UpperHand**](https://upperhand.com/): A business management platform for sports facilities and training academies. Designed to streamline scheduling, payment collection, marketing, and program management for sports academies, teams, camps, and clubs, UpperHand empowers sports facilities to run their operations with ease and efficiency.
+- [**Intellistocks.ai**](https://intellistocks.ai/): s a Python-based app that predicts stock market trends using CAPM analysis, leveraging machine learning to analyze sentiment from Reddit mentions and is exploring enhancements through transformer models and financial news sentiment analysis.
 
 ---
 
 ## 🌍 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/m-mohsin-iqbal)
-- [Twitter](https://twitter.com/mohsin_iqbal)
-- [Personal Website](https://mohsin-iqbal.dev)
+- [Personal Website](https://www.mohsiniqbal.live/)
 
 ---
 
