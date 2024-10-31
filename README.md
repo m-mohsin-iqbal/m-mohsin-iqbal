@@ -1,6 +1,19 @@
 # Hi there, I'm Mohsin Iqbal! 👋
+Welcome to my GitHub profile! I’m a dedicated developer committed to crafting impactful solutions through coding. With a background in computer science, I thrive on solving complex challenges and continuously expanding my knowledge of emerging technologies.
 
-Welcome to my GitHub profile! I'm a passionate developer focused on creating impactful solutions through code. With a background in computer science , I thrive on tackling challenging problems and continually learning new technologies.
+🚀 With over 4 years of experience, I am an accomplished Full-stack developer specializing in high-quality frontend development using React, Next.js, and TypeScript. I excel at designing intricate UI components, managing data flows with Redux/Flux, and optimizing performance to deliver an exceptional user experience.
+
+💻 On the backend, I am proficient in Node.js, Express, and Mongoose, building high-performance server-side APIs within the MERN stack. My advanced skills in Python web scraping using Scrapy showcase my expertise in data extraction.
+
+🌐 I take a holistic approach to web development, understanding customer business needs and proposing effective solutions that align with their objectives. I bridge the gap between technical capabilities and business requirements.
+
+☁️ Additionally, I possess in-depth knowledge of AWS cloud services, adept at deploying strategies and establishing seamless CI/CD pipelines.
+
+**Top Skills:**
+- JavaScript
+- React.js
+- Node.js
+- REST APIs
 
 ---
 
