@@ -1,4 +1,4 @@
-# Hi there, I'm Mohsin Iqbal! 👋
+# Hi there, I'm Nothing Iqbal! 👋
 Welcome to my GitHub profile! I’m a dedicated developer committed to crafting impactful solutions through coding. With a background in computer science, I thrive on solving complex challenges and continuously expanding my knowledge of emerging technologies.
 
 🚀 With over 4 years of experience, I am an accomplished Full-stack developer specializing in high-quality frontend development using React, Next.js, and TypeScript. I excel at designing intricate UI components, managing data flows with Redux/Flux, and optimizing performance to deliver an exceptional user experience.
