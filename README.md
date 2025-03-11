@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I’m a dedicated developer committed to crafting 
 **Top Skills:**
 - JavaScript
 - React.js
+- Next.js
 - Node.js
 - REST APIs
 
