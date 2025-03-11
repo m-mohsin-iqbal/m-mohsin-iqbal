@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I’m a dedicated developer committed to crafting 
 
 ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-mohsin-iqbal&theme=dracula)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m-mohsin-iqbal&hide_total_contributions=true)](https://git.io/streak-stats)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 ---
 
