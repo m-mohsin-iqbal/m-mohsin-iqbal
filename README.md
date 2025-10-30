@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I’m a dedicated developer committed to crafting 
 
 ## 📊 Contributions & Streaks
 
-![Mohsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-mohsin-iqbal)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=m-mohsin-iqbal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-mohsin-iqbal&theme=dracula)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=m-mohsin-iqbal)
 
