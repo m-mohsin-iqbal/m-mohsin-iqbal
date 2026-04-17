@@ -61,7 +61,7 @@ Here are a few projects I'm proud of:
 ## 🌍 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/m-mohsin-iqbal)
-- [Personal Website](https://www.mohsiniqbal.live/)
+- [Personal Website](https://www.mohsinpk.com/)
 
 ---
 
